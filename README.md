@@ -1,5 +1,13 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## FrontEnd
+1. npm install 
+2. npm start
 
+## Backend
+1. cd server
+2. npm install 
+3. node server.js or nodemon.cmd server.js
+------------------------------------------------------------------------------------------------
 ## Available Scripts
 
 In the project directory, you can run:
